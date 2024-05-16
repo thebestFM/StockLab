@@ -1,6 +1,6 @@
 # StockLab
 
-for stock
+StockLab Project Repository
 
 ## Demonstration Video
 
